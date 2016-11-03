@@ -1,0 +1,6 @@
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3\bin\Debug\HackerRankDay3.exe.config
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3\bin\Debug\HackerRankDay3.exe
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3\bin\Debug\HackerRankDay3.pdb
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3\obj\Debug\HackerRankDay3.csprojResolveAssemblyReference.cache
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3\obj\Debug\HackerRankDay3.exe
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3\obj\Debug\HackerRankDay3.pdb

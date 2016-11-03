@@ -1,0 +1,8 @@
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3.UnitTests\obj\Debug\HackerRankDay3.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3.UnitTests\bin\Debug\HackerRankDay3.UnitTests.dll
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3.UnitTests\bin\Debug\HackerRankDay3.UnitTests.pdb
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3.UnitTests\bin\Debug\HackerRankDay3.exe
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3.UnitTests\bin\Debug\HackerRankDay3.pdb
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3.UnitTests\obj\Debug\HackerRankDay3.UnitTests.dll
+c:\users\daed\documents\visual studio 2015\Projects\HackerRankDay3\HackerRankDay3.UnitTests\obj\Debug\HackerRankDay3.UnitTests.pdb
